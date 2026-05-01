@@ -1,4 +1,4 @@
-<img width="1166" height="624" alt="image" src="https://github.com/user-attachments/assets/6f8133c8-3692-46de-9d34-9a65df2c52c9" /># DS310.Q11 - Ứng dụng mô hình học sâu trong phân loại đa nhãn và tóm tắt văn bản
+# DS310.Q11 - Ứng dụng mô hình học sâu trong phân loại đa nhãn và tóm tắt văn bản
 
 
 ##  Giới thiệu
